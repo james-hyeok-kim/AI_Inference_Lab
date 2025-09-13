@@ -1,0 +1,20 @@
+### Edge AI H/W, S/W Codesign
+
+1. HW는 Simulation 형태로 정해서 한다
+* TopS, Memory BW, Memory Size에 대한 constraint를 reverse engineering 한다.
+
+2. Benchmark는 아래 reference 가 있긴 한데, 어떻게 활용할지 생각해본다.
+* Qualcomm AI Hub
+* https://aihub.qualcomm.com/mobile/models?domain=Generative+AI&useCase=Text+Generation
+
+3. 모델은 가능하면 최신 모델을 하면 배우는게 많을 것 같다.
+* Open AI OSS (LLM)
+* Qwen3 (LLM)
+* Gemma (LLM)
+* YOLOv10-Detection (CNN Object Detection 계약)
+* Stable-Diffusion-v2.1 (Diffusion)
+* etc. 
+
+4. Quantization은 QAT로 한다?
+* 같이 하는 사람들이 배울수 있으니
+
