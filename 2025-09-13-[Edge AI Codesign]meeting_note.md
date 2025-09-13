@@ -25,3 +25,14 @@
 
 5. GPU에서 Nsight 이용해서 profiling & optimization
 * https://developer.nvidia.com/nsight-systems
+
+6. 같이 강의듣고 토론하기
+efficientML 송한 교수→ https://youtu.be/rCFvPEQTxKI?si=JZG0v7NwK0PC-mU6
+
++김형섭, 김재원, 김승우
+- Lecture 3-4 : Pruning
+- Lecture 5-6 : Quantization
+- Lecture 9 : Knowledge Distillation
+- idea 제안 → final project 따라해보기??
+- 각자 공부 후 논의하기
+- in discord
