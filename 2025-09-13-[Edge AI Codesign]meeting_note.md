@@ -24,4 +24,4 @@
 * 같이 하는 사람들이 배울수 있으니
 
 5. GPU에서 Nsight 이용해서 profiling & optimization
-https://developer.nvidia.com/nsight-systems
+* https://developer.nvidia.com/nsight-systems
