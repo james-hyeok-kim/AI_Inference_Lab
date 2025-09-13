@@ -16,7 +16,7 @@
 * Qwen3 (LLM)
 * Gemma (LLM)
 * Lamma (LLM)
-* YOLOv10-Detection (CNN Object Detection 계약)
+* YOLOv10-Detection (CNN Object Detection 계약), VR Glass 환경에서 object detection(상품정보?, 객체 인식)
 * Stable-Diffusion-v2.1 (Diffusion)
 * etc. 
 
